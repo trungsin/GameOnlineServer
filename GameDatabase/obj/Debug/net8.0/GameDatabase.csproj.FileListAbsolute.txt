@@ -1,0 +1,10 @@
+/Users/admin/projects/WS/GameOnlineServer/GameDatabase/bin/Debug/net8.0/GameDatabase.deps.json
+/Users/admin/projects/WS/GameOnlineServer/GameDatabase/bin/Debug/net8.0/GameDatabase.dll
+/Users/admin/projects/WS/GameOnlineServer/GameDatabase/bin/Debug/net8.0/GameDatabase.pdb
+/Users/admin/projects/WS/GameOnlineServer/GameDatabase/obj/Debug/net8.0/GameDatabase.csproj.AssemblyReference.cache
+/Users/admin/projects/WS/GameOnlineServer/GameDatabase/obj/Debug/net8.0/GameDatabase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/projects/WS/GameOnlineServer/GameDatabase/obj/Debug/net8.0/GameDatabase.csproj.CoreCompileInputs.cache
+/Users/admin/projects/WS/GameOnlineServer/GameDatabase/obj/Debug/net8.0/GameDatabase.dll
+/Users/admin/projects/WS/GameOnlineServer/GameDatabase/obj/Debug/net8.0/refint/GameDatabase.dll
+/Users/admin/projects/WS/GameOnlineServer/GameDatabase/obj/Debug/net8.0/GameDatabase.pdb
+/Users/admin/projects/WS/GameOnlineServer/GameDatabase/obj/Debug/net8.0/ref/GameDatabase.dll
